@@ -1,5 +1,11 @@
 # svelte
 
+## 5.18.1
+
+### Patch Changes
+
+- fix: correctly parse leading comments in function binding ([#15020](https://github.com/sveltejs/svelte/pull/15020))
+
 ## 5.18.0
 
 ### Minor Changes
